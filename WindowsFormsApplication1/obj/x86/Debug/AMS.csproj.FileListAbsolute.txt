@@ -1,0 +1,47 @@
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Resources\settings.png
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.NBioBSPCOMLib.dll
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AMS.csproj.ResolveComReference.cache
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Delete.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.main_form.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Authenticate.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Credentials.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.SplashScreen.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationtest\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Resources\settings.png
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Authenticate.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Credentials.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Delete.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.SplashScreen.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.main_form.resources
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\user_pics\default.jpg
+C:\Users\Nitish\Documents\Visual Studio 2010\Projects\without winscp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication2.ImageBox.resources
